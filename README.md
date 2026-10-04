@@ -36,8 +36,8 @@ text / image
 (Windows: UB Mannheim installer · macOS: `brew install tesseract` · Ubuntu: `sudo apt install tesseract-ocr`).
 
 ```bash
-git clone <your-repo-url>
-cd appointment_scheduler
+git clone https://github.com/mateen-789/Appointment-Scheduler
+cd Appointment-Scheduler
 python -m venv venv
 
 # Windows PowerShell:  venv\Scripts\Activate.ps1
